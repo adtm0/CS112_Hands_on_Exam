@@ -52,4 +52,5 @@ def doct(o):
 
 def dhex(h):
     return hex(h).strip('0x').upper()
+    
 main()
